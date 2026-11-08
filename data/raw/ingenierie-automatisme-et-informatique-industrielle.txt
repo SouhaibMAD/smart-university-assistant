@@ -1,0 +1,130 @@
+Ingénierie Automatisme et Informatique Industrielle
+Automatisez les processus et pilotez l’industrie intelligente
+Maîtrisez les technologies de contrôle, de pilotage et de supervision pour façonner l’usine du futur.
+Pourquoi choisir la filière Ingénierie des Automatismes et Informatique Industrielle ?
+Face à l’automatisation croissante des processus industriels, les ingénieurs en automatisme et informatique industrielle sont devenus indispensables pour concevoir et piloter des systèmes complexes. La filière de l’EMSI vous prépare à maîtriser le contrôle-commande et les réseaux industriels au service de la performance et de la fiabilité des installations.
+
+Objectifs de la formation
+Devenez Ingénieur expert des systèmes automatisés et connectés :
+
+• Automatisation des processus industriels
+• Programmation d’automates et systèmes embarqués
+• Intégration de l’intelligence artificielle
+• Conception et supervision de systèmes industriels complexes
+
+Une double compétence en électronique industrielle et informatique avancée, appuyée par des cas pratiques et des projets d’ingénierie.
+
+Compétences développées en automatisme industriel
+Maîtrisez les compétences les plus recherchées :
+
+Automatisme & Informatique industrielle
+• Programmation des automates (PLC), interfaces SCADA ++
+• Réseaux industriels (Modbus, Profibus, Ethernet/IP)
+• Intégration IoT pour le suivi et la supervision à distance
+
+Programmation & systèmes embarqués
+• Langages bas niveau (Ladder, SFC, FBD) et haut niveau (C, C++, Python)
+• Microcontrôleurs, FPGA, temps réel
+
+Électrotechnique &amp; électronique
+• Conception d’installations électriques industrielles
+• Mise en œuvre de variateurs, moteurs et actionneurs
+
+Énergie & environnement
+• Audit énergétique et gestion optimisée des ressources
+• Intégration des énergies renouvelables dans les systèmes industriels
+
+Compétences managériales et soft skills
+• Gestion de projets industriels
+• Leadership, communication, pensée critique, éthique professionnelle
+• Maîtrise du français et de l’anglais professionnel
+
+Structure du cursus
+Une formation progressive vers l’excellence technologique :
+
+Années préparatoires (S1 à S4)
+• Sciences fondamentales : Mathématiques, physique, électronique, informatique
+• Technologies de base : Circuits électriques, automatisme, algorithmique
+• Langages de programmation, bases de données, systèmes d’exploitation
+• Compétences Initiation à l’IA et à la gestion d’entreprise
+• Projets pratiques et mini-laboratoires
+• Compétences transversales : communication, langues, soft skills
+Cycle d’Ingénieur (S5 à S10)
+• Automatique, régulation, supervision
+• Informatique embarquée et industrielle
+• Conception électrique, sécurité, instrumentation
+• Robotique, IA, énergies renouvelables
+• Maintenance, qualité, production
+• Outils logiciels : TIA Portal, Labview, Simulink, SolidWorks, Unity, PVsyst, etc.
+• Projets &amp; stages : PFA (projet de fin d’année), PFE (projet de fin d’études), stages d’été
+• Soft & Digital Skills : Communication, Entrepreneuriat, Employabilité, Management de projet
+
+Débouchés Professionnels
+Les diplômés de la filière Ingénierie Automatisme & Informatique Industrielle de l’EMSI accèdent à des fonctions techniques et stratégiques, grâce à leur maîtrise des systèmes intelligents, de l’automatisation avancée et de l’IA industrielle.
+
+Automatisme & Systèmes Embarqués
+
+• Ingénieur automatisme / contrôle-commande
+• Concepteur de systèmes embarqués
+• Responsable innovation et R&D
+
+Supervision, Qualité & Maintenance
+• Responsable maintenance industrielle
+• Superviseur de systèmes industriels
+• Ingénieur qualité produits & process
+
+Énergie, Électronique & Biomédical
+• Ingénieur en énergies renouvelables
+• Concepteur de circuits électroniques
+• Ingénieur instrumentation biomédicale
+
+Points forts de la filière
+Ce qui fait la différence de notre filière IAII :
+
+• Formation orientée industrie 4.0 avec forte composante pratique.
+• Double compétence : automatisme et informatique industrielle.
+• Apprentissage par projets : mini-projets, TP, outils professionnels.
+• Lien fort avec la recherche appliquée et l’innovation industrielle.
+• Accompagnement personnalisé vers l’emploi et l’entrepreneuriat.
+• Développement global : compétences techniques, managériales, linguistiques et personnelles.
+
+Pourquoi choisir l’EMSI pour l’Ingénierie des Automatismes et Informatique Industrielle ?
+L’EMSI est une référence en ingénierie depuis près de 40 ans :
+
+Diplôme d’ingénieur reconnu par l’État
+Formation et programmes alignés sur les besoins réels du marché et les tendances mondiales
+Tremplin vers des métiers d’avenir et des carrières à haute responsabilité, au Maroc et à l’international
+Méthodologie axée sur l’apprentissage par la pratique sur des projets réels
+Pédagogie innovante orientée compétences
+Plateformes technologiques avancées et Infrastructures modernes
+Connexion directe au monde industriel : partenariats entreprises, mentorat, stages
+Accompagnement carrière permanent : stages, coaching, job dating, incubateur
+Accès rapide à l’emploi : forte insertion professionnelle, réseau de +20.000 lauréats
+Réseau d’entreprises partenaires et d’anciens lauréats en poste dans les plus grands groupes marocains et internationaux
+Ouverture à l’international : échanges, double diplomation, mobilité
+Concevez le futur de l’industrie intelligente
+Passionné(e) par l’automatisation ou l’IoT ?
+Rejoignez la filière Ingénierie Automatisme &amp; Informatique Industrielle de l’EMSI et devenez un spécialiste des systèmes industriels innovants.
+
+Témoignages d'Anciens Étudiants 
+Cette section regroupe des retours d'expérience de diplômés du programme Ingénierie Automatisme et Informatique Industrielle.
+
+Témoignage 5 : David GADENGA
+Texte du témoignage :
+« J'ai obtenu mon diplôme en 2019 et grâce au Forum EMSI Entreprise organisé par l'école, j'ai pu décrocher un stage chez JESA où j'ai débuté en tant qu'Instrumentation Engineer. Après trois années d'expérience, je me suis orienté vers le management de projet en me spécialisant dans le Contrôle de Projet. Aujourd'hui en tant que Planning Engineer, je veille à la planification, au suivi et à la performance des projets, tout en garantissant le respect des délais et des objectifs. »
+
+Nom : David GADENGA
+
+Formation / Promotion : Lauréat Ingénierie Automatisme et Informatique Industrielle, Promotion 2019
+
+Poste actuel : Planning Engineer chez JESA
+
+Témoignage 6 : Khalil BOUBKRI
+Texte du témoignage :
+« Mon parcours a été marqué par une formation solide et une double diplomation qui m'a permis d'acquérir des compétences pointues. Aujourd'hui, en tant que Functional and Safety Designer chez Alten Maroc, je contribue au projet Stellantis en concevant des spécifications fonctionnelles garantissant performance et sécurité. Les enseignements reçus à l'EMSI et au Master ISC ont été un véritable tremplin, me préparant à relever les défis technologiques des secteurs de l'automobile, de l'aéronautique et des systèmes embarqués. Un immense merci à mes enseignants et à toute l'équipe pédagogique. Grâce à eux, je suis fier de participer à des projets d'envergure et d'évoluer dans un secteur en constante innovation. »
+
+Nom : Khalil BOUBKRI
+
+Formation / Promotion : Lauréat Ingénierie Automatisme et Informatique Industrielle, Promotion 2018, Double diplômé à l'Université de Bordeaux
+
+Poste actuel : Functional and Safety Designer chez ALTEN MAROC

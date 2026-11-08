@@ -1,0 +1,103 @@
+Génie Electrique et Systèmes Intelligents
+Pourquoi choisir la filière Génie Électrique et Systèmes Intelligents ?
+La transition énergétique et la montée des systèmes intelligents redéfinissent l’industrie et les usages. Dans ce contexte, la filière GESI de l’EMSI prépare des ingénieurs à la pointe des technologies électriques, de l’automatisation et de l’IA, pour bâtir des solutions durables, performantes et connectées.
+
+Objectifs de la formation
+Devenez Ingénieur en énergie et automatisation, au cœur de l’industrie intelligente :
+Conception d’installations électriques complexes
+Pilotage de réseaux industriels automatisés
+Développement de systèmes embarqués connectés
+Intégration de solutions énergétiques durables
+
+Une formation ancrée dans l’innovation technologique, l’action et la transition énergétique.
+Structure du cursus
+Une formation progressive vers l’excellence technologique :
+
+Années préparatoires (S1 à S4)
+• Sciences fondamentales : Mathématiques, physique, électronique, informatique
+• Technologies de base : Circuits électriques, automatisme, algorithmique
+• Langages de programmation, bases de données, systèmes d’exploitation
+• Compétences Initiation à l’IA et à la gestion d’entreprise
+• Projets pratiques et mini-laboratoires
+• Compétences transversales : communication, langues, soft skills
+Cycle Ingénieur Commun (S5 à S7)
+Systèmes intelligents : Robotique, digital twin, capteurs intelligents
+Ingénierie électrique : Machines, réseaux, électronique de puissance
+Industrie 4.0 : IA, data mining, jumeaux numériques
+Energies renouvelables : Production, stockage, audit énergétique
+Automatique et supervision : Automates, régulation, systèmes embarqués
+Management industriel : Qualité, production, HSE, Lean
+Outils logiciels : Matlab, TIA Portal, Labview, SolidWorks, Unity, CATIA, PVsyst, Proteus…
+Projets & stages : PFA (projet de fin d’année), PFE (projet de fin d’études), stages d’été
+Soft & Digital Skills : Communication, Entrepreneuriat, Employabilité, Management de projet.
+Débouchés Professionnels
+Les ingénieurs en Génie Électrique et Systèmes Intelligents de l’EMSI exercent dans des secteurs à forte croissance, au Maroc comme à l’international, où leur expertise en énergie intelligente et automatisation est particulièrement recherchée.
+
+Énergie & Smart Grids
+Ingénieur en efficacité énergétique
+Spécialiste des Smart Grids
+Consultant en énergies renouvelables
+
+Automatisation & Industrie 4.0
+Ingénieur en robotique industrielle
+Responsable automatisation & supervision
+Consultant en digitalisation industrielle
+Systèmes embarqués & IoT
+Ingénieur systèmes embarqués
+Architecte IoT industriel
+Spécialiste cybersécurité des systèmes industriels
+
+Installation & Supervision Électrique
+Concepteur d’installations électriques
+Responsable supervision industrielle (Digital Twin)
+Ingénieur instrumentation & appareillage
+Points forts de la filière
+Ce qui fait la différence de notre filière GESI
+
+Programme multidisciplinaire : électronique, IA, cybersécurité, robotique.
+Pédagogie active : projets concrets et mises en situation professionnelles.
+Laboratoires de dernière génération pour des travaux pratiques immersifs.
+Partenariats industriels de référence : Siemens, Bosch, OCP, Schneider Electric…
+Certifications reconnues : Coursera, Honoris, Dassault 3D Experience.
+Technologies avancées : simulateurs, logiciels pro, matériel de pointe.
+Employabilité renforcée dans les domaines de l’énergie, de la robotique et des systèmes intelligents.
+Pourquoi choisir l’EMSI pour l’Ingénierie Électrique et Systèmes Intelligents ?
+L’EMSI est une référence en ingénierie depuis près de 40 ans :
+
+Diplôme d’ingénieur reconnu par l’État
+Formation et programmes alignés sur les besoins réels du marché et les tendances mondiales
+Tremplin vers des métiers d’avenir et des carrières à haute responsabilité, au Maroc et à l’international
+Méthodologie axée sur l’apprentissage par la pratique sur des projets réels
+Pédagogie innovante orientée compétences
+Plateformes technologiques avancées et Infrastructures modernes
+Connexion directe au monde industriel : partenariats entreprises, mentorat, stages
+Accompagnement carrière permanent : stages, coaching, job dating, incubateur
+Accès rapide à l’emploi : forte insertion professionnelle, réseau de +20.000 lauréats
+Réseau d’entreprises partenaires et d’anciens lauréats en poste dans les plus grands groupes marocains et internationaux
+Ouverture à l’international : échanges, double diplomation, mobilité
+Formez-vous aux systèmes intelligents et à l’énergie durable
+Vous souhaitez concevoir les solutions électriques de demain ?
+Rejoignez la filière Génie Électrique et Systèmes Intelligents de l’EMSI et devenez ingénieur de la transition énergétique et de l’industrie 4.0.
+
+Témoignages d'Anciens Étudiants
+Cette section regroupe des retours d'expérience de diplômés du programme Ingénierie Automatisme et Informatique Industrielle.
+
+Témoignage 5 : David GADENGA
+Texte du témoignage :
+« J'ai obtenu mon diplôme en 2019 et grâce au Forum EMSI Entreprise organisé par l'école, j'ai pu décrocher un stage chez JESA où j'ai débuté en tant qu'Instrumentation Engineer. Après trois années d'expérience, je me suis orienté vers le management de projet en me spécialisant dans le Contrôle de Projet. Aujourd'hui en tant que Planning Engineer, je veille à la planification, au suivi et à la performance des projets, tout en garantissant le respect des délais et des objectifs. »
+
+Nom : David GADENGA
+
+Formation / Promotion : Lauréat Ingénierie Automatisme et Informatique Industrielle, Promotion 2019
+
+Poste actuel : Planning Engineer chez JESA
+
+Témoignage 6 : Khalil BOUBKRI
+Texte du témoignage :
+« Mon parcours a été marqué par une formation solide et une double diplomation qui m'a permis d'acquérir des compétences pointues. Aujourd'hui, en tant que Functional and Safety Designer chez Alten Maroc, je contribue au projet Stellantis en concevant des spécifications fonctionnelles garantissant performance et sécurité. Les enseignements reçus à l'EMSI et au Master ISC ont été un véritable tremplin, me préparant à relever les défis technologiques des secteurs de l'automobile, de l'aéronautique et des systèmes embarqués. Un immense merci à mes enseignants et à toute l'équipe pédagogique. Grâce à eux, je suis fier de participer à des projets d'envergure et d'évoluer dans un secteur en constante innovation. »
+
+Nom : Khalil BOUBKRI
+
+Formation / Promotion : Lauréat Ingénierie Automatisme et Informatique Industrielle, Promotion 2018, Double diplômé à l'Université de Bordeaux
+
+Poste actuel : Functional and Safety Designer chez ALTEN MAROC
