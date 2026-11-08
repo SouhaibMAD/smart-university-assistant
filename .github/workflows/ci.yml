@@ -1,0 +1,45 @@
+name: CI
+
+on:
+  pull_request:
+    branches: [develop, main]
+  push:
+    branches: [develop, main]
+
+jobs:
+  lint-test:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: pgvector/pgvector:pg16
+        env:
+          POSTGRES_USER: sua
+          POSTGRES_PASSWORD: ci_password
+          POSTGRES_DB: sua
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U sua -d sua"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 10
+    env:
+      POSTGRES_USER: sua
+      POSTGRES_PASSWORD: ci_password
+      POSTGRES_DB: sua
+      POSTGRES_HOST: localhost
+      POSTGRES_PORT: "5432"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: backend/requirements*.txt
+      - name: Installer les dépendances
+        run: pip install -r backend/requirements.txt -r backend/requirements-dev.txt
+      - name: Lint
+        run: ruff check .
+      - name: Tests
+        working-directory: backend
+        run: pytest -q

@@ -1,0 +1,2 @@
+# Séparé car lourd (torch) : exclu de la CI.
+sentence-transformers>=3.0

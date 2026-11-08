@@ -1,0 +1,83 @@
+smart-university-assistant/   (hiérarchie du projet — [Nom] = responsable de la partie)
+
+├── .github/   # Configuration GitHub
+│   ├── workflows/   # Pipelines CI
+│   │   └── ci.yml   # CI : ruff + pytest sur PR vers develop/main (avec Postgres pgvector)
+│   └── pull_request_template.md   # Modèle de Pull Request avec checklist obligatoire
+├── backend/   # API FastAPI + logique RAG
+│   ├── app/   # Package applicatif
+│   │   ├── api/   # Couche HTTP
+│   │   │   ├── routes/   # Routes FastAPI
+│   │   │   │   ├── auth.py   # [Yassine] /auth : login, register, me
+│   │   │   │   ├── chat.py   # [Yassine] /chat : question -> réponse + sources
+│   │   │   │   ├── conversations.py   # [Yassine] /conversations : historique
+│   │   │   │   ├── documents.py   # [Yassine] /documents : upload, liste, suppression
+│   │   │   │   ├── health.py   # /health et /health/db (déjà fonctionnel)
+│   │   │   │   └── internal.py   # [Yassine] /internal : routes réservées à n8n (clé API)
+│   │   │   └── deps.py   # [Yassine] Dépendances : utilisateur courant, admin, clé n8n
+│   │   ├── core/   # Configuration et sécurité
+│   │   │   ├── config.py   # Paramètres (pydantic-settings) lus depuis .env
+│   │   │   └── security.py   # [Yassine] Hash des mots de passe + JWT
+│   │   ├── db/   # Couche base de données
+│   │   │   ├── base.py   # Base déclarative SQLAlchemy
+│   │   │   ├── crud.py   # [Siham] Fonctions d'accès aux données
+│   │   │   ├── models.py   # [Siham] Modèles : users, documents, chunks, conversations, messages
+│   │   │   └── session.py   # Engine, session, init_db (extension vector + create_all)
+│   │   ├── prompts/   # Prompts du LLM
+│   │   │   └── system_fr.txt   # [Lead] Prompt système (réponses strictement basées sur le contexte)
+│   │   ├── schemas/   # Contrat d'API (Pydantic)
+│   │   │   └── schemas.py   # [Lead] Schémas de requêtes/réponses — ne pas modifier
+│   │   ├── services/   # Logique métier
+│   │   │   ├── chunking.py   # [Siham] Découpage du texte en chunks
+│   │   │   ├── embeddings.py   # [Lead] Embeddings locaux (e5 multilingue)
+│   │   │   ├── ingestion.py   # [Siham] Extraction PDF/TXT + ingestion en base
+│   │   │   ├── llm.py   # [Lead] Client Groq (qwen/qwen3.8-27b)
+│   │   │   ├── rag.py   # [Lead] Pipeline RAG complet + garde-fou anti-hallucination
+│   │   │   ├── retrieval.py   # [Lead] Recherche top-k pgvector + seuil
+│   │   │   └── types.py   # [Lead] Types partagés (PageText, ChunkDraft, RetrievedChunk, RagAnswer)
+│   │   └── main.py   # Point d'entrée FastAPI, inclusion des routers, init de la base
+│   ├── tests/   # Tests backend (pytest)
+│   │   └── test_health.py   # Test de fumée de l'API
+│   ├── Dockerfile   # Image du backend
+│   ├── pytest.ini   # Configuration pytest
+│   ├── requirements-dev.txt   # Dépendances de dev (pytest, ruff)
+│   ├── requirements-ml.txt   # Dépendances ML lourdes (sentence-transformers), hors CI
+│   └── requirements.txt   # Dépendances runtime backend
+├── data/   # Données
+│   ├── eval/   # Jeu de questions d'évaluation
+│   │   └── questions.example.jsonl   # Exemple de format du jeu de test
+│   ├── inbox/   # Dossier surveillé par n8n (ingestion automatique, non versionné)
+│   └── raw/   # Corpus de documents universitaires (PDF/TXT)
+├── docs/   # Documentation technique
+│   └── architecture.md   # Schéma d'architecture et flux
+├── evaluation/   # Évaluation du RAG
+│   ├── results/   # Résultats générés (CSV, JSON, PNG)
+│   └── run_eval.py   # [Houda] Script d'évaluation (hit@k, MRR, refus, latence)
+├── frontend/   # Interface Streamlit
+│   ├── .streamlit/   # Configuration Streamlit
+│   │   └── config.toml   # Thème et options Streamlit
+│   ├── pages/   # Pages Streamlit
+│   │   ├── 1_Chat.py   # [Hafsa] Chat + historique + sources
+│   │   ├── 2_Admin.py   # [Hafsa] Gestion des documents (admin)
+│   │   └── 3_Evaluation.py   # [Houda] Résultats d'évaluation (tableaux + graphiques)
+│   ├── api_client.py   # [Hafsa] Client HTTP unique vers le backend
+│   ├── app.py   # [Hafsa] Accueil / connexion
+│   ├── Dockerfile   # Image du frontend
+│   └── requirements.txt   # Dépendances frontend
+├── n8n/   # Automatisation
+│   ├── workflows/   # [Yassine] Workflows exportés (JSON, sans identifiants)
+│   └── README.md   # Mode d'emploi des workflows
+├── scripts/   # Scripts utilitaires
+│   ├── ingest_folder.py   # [Siham] Ingestion d'un dossier de documents
+│   ├── init_db.sql   # Active l'extension pgvector au premier démarrage
+│   └── seed_admin.py   # [Yassine] Création du compte admin
+├── .env.example   # Modèle de variables d'environnement (copier en .env, ne jamais committer .env)
+├── .gitignore   # Fichiers exclus de Git
+├── docker-compose.yml   # Orchestration : db (pgvector), backend, frontend, n8n
+├── pyproject.toml   # Configuration ruff (lint)
+└── README.md   # README public du projet (problématique, architecture, installation, exécution)
+
+Notes :
+- Les fichiers __init__.py (vides) et .gitkeep (dossiers vides) existent mais ne sont pas listés.
+- Les parties marquées [Lead] sont à la charge du tech lead (Souhaib).
+- Les fichiers marqués d'un responsable contiennent actuellement un contrat/squelette à compléter.

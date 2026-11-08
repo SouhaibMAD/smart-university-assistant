@@ -1,0 +1,3 @@
+{"id": "ex-001", "question": "Quel est le nombre maximal d'absences autorisées par module ?", "answerable": true, "expected_document": "reglement_interieur.pdf", "expected_page": 12, "expected_answer": "valeur exacte à recopier du document", "category": "reglement"}
+{"id": "ex-002", "question": "Comment demander une attestation de scolarité ?", "answerable": true, "expected_document": "guide_procedures_administratives.pdf", "expected_page": 4, "expected_answer": "résumé court de la procédure", "category": "procedure"}
+{"id": "ex-003", "question": "Quel est le menu de la cafétéria demain ?", "answerable": false, "expected_document": null, "expected_page": null, "expected_answer": null, "category": "hors_corpus"}

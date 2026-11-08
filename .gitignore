@@ -1,0 +1,24 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Données locales (le corpus est dans data/raw, la boîte de dépôt n8n ne se versionne pas)
+data/inbox/*
+!data/inbox/.gitkeep
+
+# Caches modèles
+.cache/
