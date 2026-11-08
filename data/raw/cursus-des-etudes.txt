@@ -1,0 +1,142 @@
+Cursus
+Parcours d'Ingénieur : Options et Spécialisations
+Ce document décrit l'architecture des formations menant au Diplôme d'Ingénieur d'État, avec les années préparatoires, les cycles d'ingénieur et les options de spécialisation par filière.
+
+1. Ingénierie Informatique & Réseaux (IIR)
+Année préparatoire : Années préparatoires pour IIR, IAI, GI, GESI.
+
+Cycle : Cycle d'ingénieur Ingénierie Informatique & Réseaux.
+
+Options de spécialisation :
+
+Option 1 : Intelligence Artificielle et Sciences des Données.
+
+Option 2 : Cybersécurité et Infrastructure Réseau.
+
+Option 3 : Développement Digital et Systèmes d'Information.
+
+2. Ingénierie des Automatismes & Informatique Industrielle (IAII)
+Année préparatoire : Années préparatoires pour IIR, IAI, GI, GESI.
+
+Cycle : Cycle d'ingénieur Ingénierie des Automatismes & Informatique Industrielle.
+
+Options : Non spécifiées dans l'image.
+
+3. Génie Industriel (GI)
+Année préparatoire : Années préparatoires pour IIR, IAI, GI, GESI.
+
+Cycle : Cycle d'ingénieur Génie Industriel.
+
+Options : Non spécifiées dans l'image.
+
+4. Génie Électrique & Systèmes Intelligents (GESI)
+Année préparatoire : Années préparatoires pour IIR, IAI, GI, GESI.
+
+Cycle : Cycle d'ingénieur Génie Électrique & Systèmes Intelligents.
+
+Options : Non spécifiées dans l'image.
+
+5. Génie Civil, Bâtiments & Travaux Publics (GC)
+Année préparatoire : Années préparatoires pour GC.
+
+Cycle : Cycle d'ingénieur Génie Civil, Bâtiments & Travaux Publics.
+
+Options : Non spécifiées dans l'image.
+
+6. Génie Financier (GF)
+Année préparatoire : Années préparatoires pour GF.
+
+Cycle : Cycle d'ingénieur Génie Financier.
+
+Options de spécialisation :
+
+Option 1 : Actuariat et Finance.
+
+Option 2 : Ingénierie et Corporate Finance.
+
+Diplôme final délivré : Diplôme d'Ingénieur d'État.
+
+
+ANNÉES PRÉPARATOIRES AU CYCLE D’INGÉNIEUR
+Le cycle des deux années préparatoires au cycle d’ingénieur en Informatique et réseaux, en Génie Electrique et Systèmes Intelligents ou en Génie Industriel vise à doter les étudiants des bases techniques fondamentales pour pouvoir orienter leurs parcours d’études vers les métiers d’Ingénierie Informatique et Réseaux, Ingénierie des Automatismes et Informatique industrielle ou en Génie Industriel. La formation est complétée par des modules de langues, de sciences sociales et de gestion.
+
+PROGRAMME
+Informatique : Algorithmique, Langages de programmation, Bases de Données, Méthodes d’Analyse, Systèmes d’Exploitation, Structures de Données, Travaux Pratiques et Mini Projets, Programmation Web.
+
+Sciences pour l’ingénieur : Circuits Électriques, Circuits Numériques, Électronique, Automatismes Séquentiels, Travaux Pratiques et mini projets.
+
+Informatique industrielle : Architecture des Ordinateurs, Microprocesseurs, Arduino, Labview, Travaux pratiques et mini projets.
+
+Langues et communication : Français, Techniques d’Expression et de Communication, Anglais.
+
+Mathématiques : Analyse, Algèbre, Probabilités, Statistiques.
+
+Culture de l’entreprise : Droit, Économie, Comptabilité.
+
+Génie Financier & Audit
+Le cycle des deux années préparatoires au cycle d’ingénieur de la filière Génie Financier et Audit vise à doter les étudiants des bases techniques fondamentales pour pouvoir orienter leurs parcours d’études vers les métiers de l’ingénierie financière et d’audit. La formation est complétée par des modules de langues et de sciences sociales.
+
+PROGRAMMES
+Comptabilité : comptabilité générale, ateliers comptables, comptabilité analytique.
+
+Management et marketing : initiation au management, management général, marketing et jeux d’entreprise.
+
+Économie: macroéconomie, microéconomie, pensées économiques contemporaines, géographie économique, économie monétaire, économie international.
+
+Finance : initiation à la finance, analyse financière.
+
+Droit et fiscalité : droit civil, droit commercial, fiscalité.
+
+Mathématiques : analyse, probabilités, statistiques, mathématiques financières, logiciels de statistique, analyse de données.
+
+Informatique : logiciels de comptabilité, logiciels de statistique.
+
+Langues et communication : français, techniques d’expression et de communication, anglais, arabe des affaires.
+
+
+PARTENARIATS
+Partenariats Institutionnels et Académiques
+Ce document liste les établissements et organismes partenaires identifiés par leurs logos.
+
+1. Université Côte d'Azur
+Nom : UNIVERSITÉ CÔTE D'AZUR
+
+Type : Université française
+
+Description visuelle : Logo composé d'une sphère de points bleus de tailles variables, avec le nom de l'université écrit en dessous (Université en noir fin, Côte d'Azur en bleu épais).
+
+2. 3iL Ingénieurs
+Nom : 3iL INGENIEURS
+
+Type : École d'ingénieurs
+
+Description visuelle : Logo avec un symbole géométrique orange (formes triangulaires imbriquées) à gauche, le texte "3iL" en bleu foncé épais au centre, et le mot "INGENIEURS" en dessous en bleu plus fin.
+
+3. ENSTA Bretagne
+Nom : ENSTA Bretagne
+
+Type : Grande école d'ingénieurs (École Nationale Supérieure de Techniques Avancées)
+
+Description visuelle : Logo circulaire bleu foncé contenant un voilier stylisé (blanc et bleu clair) et une feuille verte. À droite, le texte "ENSTA" en bleu gras et "Bretagne" en gris.
+
+4. Institut en Innovation Logistique
+Nom : Institut en Innovation Logistique
+
+Type : Institut spécialisé en logistique
+
+Description visuelle : Logo abstrait avec des formes humaines stylisées (une noire et une beige/dorée). Le texte est réparti sur trois lignes : "Institut" (en beige/doré), "en Innovation" (en noir) et "Logistique" (en noir).
+
+5. CentraleSupélec
+Nom : CentraleSupélec
+
+Type : Grande école d'ingénieurs
+
+Description visuelle : Logo composé de deux formes circulaires entrelacées (une violette/gris et une bordeaux). Le nom "CentraleSupélec" est écrit en dessous en police serif noire.
+
+6. Université de Lorraine
+Nom : UNIVERSITÉ DE LORRAINE
+
+Type : Université française
+
+Description visuelle : Logo avec un cercle noir contenant deux formes en "U" (une blanche et une jaune). À droite, le texte "UNIVERSITÉ DE LORRAINE" en majuscules noires grasses.
+

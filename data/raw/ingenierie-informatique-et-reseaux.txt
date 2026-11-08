@@ -1,0 +1,180 @@
+Ingénierie Informatique et Réseaux:
+Pourquoi choisir la filière Ingénierie Informatique et Réseaux ?
+L’univers numérique évolue à une vitesse fulgurante, porté par l’intelligence artificielle, la cybersécurité et les systèmes connectés. Pour répondre à ces défis technologiques, la filière Ingénierie Informatique & Réseaux de l’EMSI forme des ingénieurs capables de concevoir, sécuriser et déployer des solutions numériques innovantes dans un monde toujours plus digitalisé.
+
+Objectifs de la formation
+Préparez-vous à devenir un ingénieur complet du numérique, expert des technologies de demain :
+
+Développement logiciel full-stack
+Intelligence artificielle & Data Science
+Cybersécurité & réseaux intelligents
+Systèmes d’information & cloud computing
+Grâce à des projets concrets et une pédagogie orientée compétences, vous
+maîtriserez les outils et méthodes les plus recherchés du secteur digital.
+
+Spécialisations disponibles
+Choisissez la spécialisation qui correspond à votre projet professionnel et devenez un expert du numérique à forte valeur ajoutée :
+
+Intelligence Artificielle & Sciences des Données
+• Modélisation prédictive et machine learning
+• Applications d’IA générative (texte, image, son)
+• Data engineering & systèmes distribués
+• Visualisation & traitement de données massives
+
+Cybersécurité & Infrastructures Réseaux
+• Sécurisation des architectures systèmes et cloud
+• Hacking éthique & forensic
+• Blockchain, VPN, audit et conformité
+• Supervision des réseaux intelligents
+
+Développement Digital & Systèmes d’Information
+• Développement web et mobile sécurisé
+• Intégration de solutions cloud-native et ERP
+• DevOps & microservices
+• Systèmes distribués et IA métier
+Compétences développées en génie informatique
+Maîtrisez les compétences numériques les plus recherchées :
+
+• Développement logiciel : CI/CD, agile, full-stack, mobile, UX/UI
+• Cybersécurité : audit, intrusion, pare-feux, forensic, cryptanalyse
+• IA & Data : machine learning, big data, IA générative, data visualisation
+• Infrastructure réseau : virtualisation, SDN, protocoles réseaux, IoT
+• Cloud & Systèmes : AWS, Azure, Kubernetes, administration Unix/Windows
+• Compétences transverses : gestion de projet, éthique numérique, communication
+
+Structure du cursus
+Une formation progressive vers l’excellence technologique :
+Années préparatoires (S1 à S4)
+ Sciences fondamentales : Mathématiques, physique, électronique, informatique
+Technologies de base : Circuits électriques, automatisme, algorithmique
+Langages de programmation, bases de données, systèmes d’exploitation
+Compétences Initiation à l’IA et à la gestion d’entreprise
+Projets pratiques et mini-laboratoires
+Compétences transversales : communication, langues, soft skills
+Cycle Ingénieur Commun (S5 à S7)
+Développement & langages : C++, Python, Java, .NET, Angular, React
+Ingénierie logicielle : Méthodes agiles, DevOps, qualité logiciel, UML
+Systèmes & cloud : Unix, Windows, virtualisation, cloud computing
+Réseaux & cybersécurité : TCP/IP, protocoles, sécurité, forensic
+Intelligence artificielle : Machine learning, data science, IA appliquée
+Base de données : SQL, NoSQL, Oracle, MS SQL Server
+Gestion de projet & IT : PMP, ITIL, outils de pilotage
+Projets & stages : PFA (projet de fin d’année), PFE (projet de fin d’études), stages d’été
+Soft & Digital Skills : Communication, Entrepreneuriat, Employabilité, Management de projet
+Cycle Ingénieur Spécialisé (S8 et S9)
+Option IA & Data Science
+– MLOps & déploiement d’IA
+– IA générative (textuelle & visuelle)
+– NLP, traitement d’image & de la parole
+– Deep learning & systèmes multi-agents
+– Écosystème Big Data & data engineering
+– Systèmes distribués & IA distribuée
+– Exploration de données & applications intelligentes
+
+Option Cybersécurité & Réseaux
+– Ethical hacking & cyberdéfense
+– Sécurité des réseaux, VPN et applications
+– Blockchain & cryptographie appliquée
+– Supervision des réseaux & forensic
+– Sécurité cloud & cryptanalyse
+– Audit et réglementation en cybersécurité
+– IA appliquée à la détection des menaces
+
+Option Développement Digital & SI
+– DevOps & architecture microservices
+– ERP, sécurité applicative & développement multiplateforme
+– Tuning base de données & Big Data
+– Frameworks (JEE, front-end, back-end)
+– Systèmes distribués & data mining
+– Intégration SI & IA pour les applications métier
+
+Débouchés Professionnels
+Les ingénieurs diplômés en Informatique & Réseaux de l’EMSI s’intègrent rapidement dans des environnements technologiques de pointe, publics ou privés, avec une excellente employabilité dans les domaines de l’IA, de la cybersécurité, du cloud et des systèmes d’information.
+
+Intelligence Artificielle & Data Science
+• Data Scientist / Data Analyst
+• Ingénieur en Intelligence Artificielle / MLOps
+• Architecte Big Data
+• Développeur d’applications intelligentes
+
+Cybersécurité & Réseaux
+• Ingénieur cybersécurité
+• Analyste SOC / Pentester
+• Auditeur en sécurité des systèmes
+• Ingénieur réseau sécurisé
+
+Développement & Systèmes d’Information
+• Développeur Full Stack
+• DevOps Engineer
+• Ingénieur Logiciel
+
+Points forts de la filière
+Ce qui fait la différence de notre filière numérique :
+
+Trois spécialisations d’avenir : IA & Data Science, Cybersécurité & Réseaux, Développement Digital & SI.
+Formation 360° : acquisition de compétences techniques, managériales et humaines.
+Apprentissage par projet : mini-projets, stages en entreprise, projet de fin d’études.
+Technologies de pointe : Cloud Computing, IA générative, DevOps, Docker, Kubernetes, MLOps.
+Encadrement par des professionnels du secteur et enseignants chercheurs.
+Débouchés solides dans des secteurs critiques : IT, finance, industrie, consulting…
+Pourquoi choisir l’EMSI pour l’Ingénierie Informatique et Réseaux ?
+L’EMSI est une référence en ingénierie depuis près de 40 ans :
+
+Diplôme d’ingénieur reconnu par l’État
+Formation et programmes alignés sur les besoins réels du marché et les tendances mondiales
+Tremplin vers des métiers d’avenir et des carrières à haute responsabilité, au Maroc et à l’international
+Méthodologie axée sur l’apprentissage par la pratique sur des projets réels
+Pédagogie innovante orientée compétences
+Plateformes technologiques avancées et Infrastructures modernes
+Connexion directe au monde industriel : partenariats entreprises, mentorat, stages
+Accompagnement carrière permanent : stages, coaching, job dating, incubateur
+Accès rapide à l’emploi : forte insertion professionnelle, réseau de +20.000 lauréats
+Réseau d’entreprises partenaires et d’anciens lauréats en poste dans les plus grands groupes marocains et internationaux
+Ouverture à l’international : échanges, double diplomation, mobilité
+Rejoignez la révolution numérique
+Vous aspirez à une carrière dans l’IA, la cybersécurité ou les systèmes connectés ?
+Devenez un ingénieur d’Etat de haut niveau avec la filière Ingénierie Informatique & Réseaux de l’EMSI.
+
+Témoignages
+Témoignages d'Anciens Étudiants (EMSI)
+Cette section regroupe les retours d'expérience de diplômés du programme Ingénierie Informatique et Réseaux.
+
+Témoignage 1 : Ahmed HILALI
+Texte du témoignage :
+« Mon parcours à l'EMSI a été un véritable tremplin pour ma carrière dans l'écosystème Salesforce. Grâce au Career Center, j'ai pu animer plusieurs Workshop, partager mes connaissances et renforcer mes compétences en gestion de projet et en leadership. Cette dynamique, combinée à une formation solide, m'a permis d'obtenir 9 certifications Salesforce et d'évoluer vers un rôle de Tech Lead. Aujourd'hui, avec plus de 4 ans d'expérience, j'accompagne des entreprises des secteurs pharmaceutique et des biens de consommation dans la mise en place de solutions adaptées, en exploitant des technologies comme Consumer Goods Cloud, FSL, Sales Cloud et Service Cloud. »
+
+Nom : Ahmed HILALI
+
+Formation / Promotion : Lauréat Ingénierie Informatique et Réseaux, Promotion 2020
+
+Poste actuel : Tech Lead chez BAY BRIDGE DIGITAL
+
+Témoignage 2 : Fatima zahra YECHHAB
+Texte du témoignage :
+« Ma formation à l'EMSI a été le fondement d'un parcours académique ambitieux, marqué par une volonté constante d'excellence. Grâce à cette formation, j'ai eu l'opportunité d'intégrer un programme de double diplomation avec l'Université Côte d'Azur en option MIAGE. Ce double cursus m'a permis d'acquérir une expertise pointue et m'a doté d'une vision globale des enjeux numériques et des défis de la transformation digitale. Ce parcours illustre l'impact d'une formation d'excellence et l'importance des opportunités qu'elle offre pour bâtir une carrière dynamique et prometteuse. »
+
+Nom : Fatima zahra YECHHAB
+
+Poste actuel : Software Engineer chez CAPGEMINI
+
+Formation / Promotion : Lauréate Ingénierie Informatique et Réseaux, Promotion 2024, Double diplômée à l'Université Côte d'Azur
+
+Témoignage 3 : Ibrahim MARRACHI
+Texte du témoignage :
+« Tout au long de mon parcours, j'ai bénéficié d'un encadrement de qualité grâce à des professeurs passionnés, ainsi que d'une formation riche et complète qui m'a préparé au monde professionnel. À l'issue de mon stage de fin d'études, j'ai eu l'opportunité d'être embauché directement en CDI chez IBM en tant qu'Ingénieur d'études et développement Mainframe. Les compétences techniques et en leadership que j'ai acquises à l'EMSI, ainsi que mon expérience professionnelle, m'ont permis d'évoluer davantage. Depuis février 2024, j'occupe le poste de Tech Lead Mainframe chez BNP Paribas, une nouvelle étape passionnante dans mon parcours. »
+
+Nom : Ibrahim MARRACHI
+
+Formation / Promotion : Lauréat Ingénierie Informatique et Réseaux, Promotion 2017
+
+Poste actuel : Technical Lead MAINFRAME chez BNP Paribas (France)
+
+Témoignage 4 : Karim AMGUIR
+Texte du témoignage :
+« J'ai rejoint l'EMSI par admission directe et j'ai choisi l'option MIAGE car j'étais intéressé par le développement logiciel et souhaitais me spécialiser dans ce domaine. Dès l'obtention de mon diplôme, j'ai débuté ma première expérience en tant que développeur Java pendant un an, avant de me tourner vers le PHP. Une fois mes compétences techniques suffisamment solides pour évoluer, j'ai pris la direction d'une entreprise française implantée au Maroc, où j'ai assuré la gestion de la digital factory. »
+
+Nom : Karim AMGUIR
+
+Formation / Promotion : Lauréat Ingénierie Informatique et Réseaux, Promotion 2011
+
+Poste actuel : CEO & Founder chez ZAIM DIGITAL
